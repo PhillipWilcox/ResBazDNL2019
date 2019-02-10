@@ -15,3 +15,7 @@ Type lots of - (dashes) to insert a greyish line (useful sectioning off stuff)
 ________________
 
 Another way to insert a line is to use multiple underscore characters
+
+Adding a link to some of the other files:
+
+[  ](link)
