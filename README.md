@@ -28,5 +28,8 @@ Linking to other files in other folders:-
 
 [ResBazDNL2019/Methods/Syntax.md](link)
 
+Embedding an image:
+![](filename and path of image link)
+
 
 
