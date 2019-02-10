@@ -26,5 +26,7 @@ Linking to other files in other folders:-
 
 [ResBazDNL2019/Methods/Readme.md](link)
 
+[ResBazDNL2019/Methods/Syntax.md](link)
+
 
 
