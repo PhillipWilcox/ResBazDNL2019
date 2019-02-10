@@ -24,5 +24,7 @@ Adding a link to some of the other files (place extra line between links):
 
 Linking to other files in other folders:-
 
+[ResBazDNL2019/Methods/Readme.md](link)
+
 
 
