@@ -16,6 +16,7 @@ ________________
 
 Another way to insert a line is to use multiple underscore characters
 
-Adding a link to some of the other files:
+Adding a link to some of the other files (place extra line between links):
 
-[  ](link)
+[lists_bullets.md](link)
+
